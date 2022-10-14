@@ -160,3 +160,7 @@ body {
         animation-delay: 1s;
 
     }
+
+    .fondo {
+        background-color: aqua;
+    }
